@@ -2,6 +2,7 @@ import "./Home.css";
 import Header from "./Header";
 import Intro from "./Intro";
 import Project from "./Project";
+import Footer from "./Footer";
 import React from "react";
 import Fade from "react-reveal/Fade";
 
@@ -91,6 +92,7 @@ class Home extends React.Component {
                             ))}
                     </div>
                 </div>
+                <Footer></Footer>
             </div>
         );
     }
