@@ -15,8 +15,8 @@ const projectArray = [
             "인터랙티브 라이브러리 '프로세싱(Processing)'을 활용한 UX/UI 프로젝트",
         tags: ["Processing"],
         detail: {
-            linkimg: "/img/7016_2.png",
-            image: "/img/7016_1.png",
+            linkimg: "./img/7016_2.png",
+            image: "./img/7016_1.png",
             link: "https://semicolon-janghyejin.github.io/js-study/smu7016/home.html",
             role: [],
         },
@@ -29,8 +29,8 @@ const projectArray = [
         contents: "자료구조 Stack의 원리를 배울 수 있는 햄버거 만들기 게임",
         tags: ["Java8"],
         detail: {
-            linkimg: "/img/stackburger_2.png",
-            image: "/img/stackburger_1.png",
+            linkimg: "./img/stackburger_2.png",
+            image: "./img/stackburger_1.png",
             link: "https://github.com/Semicolon-JangHyeJin/stackburger",
             role: ["Java GUI를 활용한 카드 순서 맞추기 게임 구현"],
         },
@@ -43,8 +43,8 @@ const projectArray = [
         contents: "반도체 생산 및 납품 관리를 위한 웹 앱 ERP System",
         tags: ["Java8", "JSP", "Bootstrap", "MySQL", "Apache Tomcat"],
         detail: {
-            linkimg: "/img/erp_2.png",
-            image: "/img/erp_1.png",
+            linkimg: "./img/erp_2.png",
+            image: "./img/erp_1.png",
             link: "https://github.com/Semicolon-JangHyeJin/sc-grad-erp",
             role: [
                 "로그인 기능(Session을 사용한 로그인 유지기능)",
